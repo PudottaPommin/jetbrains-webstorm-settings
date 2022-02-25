@@ -4,7 +4,7 @@
     <property name="created">2021-11-10T14:44:14</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2022-02-25T08:39:30</property>
+    <property name="modified">2022-02-25T10:24:01</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <console-font>
@@ -15,28 +15,43 @@
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
-  <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.1" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="ActionButton.hoverBackground" value="1f2233c0" />
     <option name="ActionButton.iconTextForeground" value="4b526d" />
     <option name="ActionButton.pressedBackground" value="1f2233" />
+    <option name="Bookmark.Mnemonic.iconBackground" value="3b3f51" />
+    <option name="Bookmark.Mnemonic.iconBorderColor" value="3b3f51" />
+    <option name="Bookmark.Mnemonic.iconForeground" value="fffbf7" />
+    <option name="Bookmark.iconBackground" value="84ffff" />
     <option name="BookmarkIcon.background" value="84ffff" />
+    <option name="BookmarkMnemonicIcon.background" value="3b3f51" />
+    <option name="BookmarkMnemonicIcon.borderColor" value="3b3f51" />
+    <option name="BookmarkMnemonicIcon.foreground" value="fffbf7" />
     <option name="CARET_COLOR" value="ffcc00" />
     <option name="CARET_ROW_COLOR" value="1b2529" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f111a" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="c3cee3" />
+    <option name="DIAGRAM_COARSE_GRID" value="1a1c25" />
     <option name="DIAGRAM_DEFAULT_EDGE" value="c792ea" />
+    <option name="DIAGRAM_FINE_GRID" value="3b3f51" />
     <option name="DIAGRAM_GENERALIZATION_EDGE" value="82aaff" />
+    <option name="DIAGRAM_HOT_SPOTS" value="ffcb6b" />
     <option name="DIAGRAM_INNER_EDGE" value="ffcb6b" />
     <option name="DIAGRAM_NODE_BACKGROUND" value="f111a" />
-    <option name="DIAGRAM_NODE_HEADER" value="1a1c25" />
+    <option name="DIAGRAM_NODE_BORDER" value="3b3f51" />
+    <option name="DIAGRAM_NODE_HEADER" value="181a1f" />
+    <option name="DIAGRAM_NODE_SLOPPY_BACKGROUND" value="1f2233" />
     <option name="DIAGRAM_NOTE_BACKGROUND" value="f111a" />
     <option name="DIAGRAM_NOTE_BORDER" value="c3cee3" />
+    <option name="DIAGRAM_NOTE_SLOPPY_BACKGROUND" value="1f2233" />
     <option name="DIAGRAM_REALIZATION_EDGE" value="f07178" />
+    <option name="DIAGRAM_SELECTED_NODE_BORDER" value="84ffff" />
+    <option name="DIAGRAM_SELECTION_BOX_BORDER" value="84ffff" />
+    <option name="DIAGRAM_SNAPPING_LINES" value="84ffff" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="181a1f" />
@@ -80,6 +95,7 @@
     <option name="JUPYTER.SAUSAGE_BUTTON_SHORTCUT_COLOR" value="4b526d" />
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="525975" />
+    <option name="LOOKUP_COLOR" value="181a1f" />
     <option name="METHOD_SEPARATORS_COLOR" value="3b3f51" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
     <option name="MODIFIED_TAB_ICON" value="84ffff" />
@@ -1469,7 +1485,9 @@
       </value>
     </option>
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="b2ccd6" />
+      </value>
     </option>
     <option name="KOTLIN_QUEST">
       <value>
@@ -3091,9 +3109,33 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
+    <option name="PY.AS">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.ASYNC">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="82aaff" />
+      </value>
+    </option>
+    <option name="PY.IF_ELSE">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.IMPORT">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.KEYWORD">
@@ -3119,6 +3161,18 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="PY.RAISE">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.RETURN">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="PY.SELF_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ff5370" />
@@ -3133,6 +3187,18 @@
     <option name="PY.STRING.B">
       <value>
         <option name="FOREGROUND" value="c3e88d" />
+      </value>
+    </option>
+    <option name="PY.TRY">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.WITH">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RDOC_DIRECTIVE">
