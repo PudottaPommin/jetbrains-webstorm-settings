@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;hostKeyVerifier&quot;:{&quot;hashKnownHosts&quot;:true,&quot;stringHostKeyChecking&quot;:&quot;ASK&quot;}}" host="srv02.netbizgroup.sk" id="e4f78df8-20cb-40d8-8340-7bc8a31ce970" keyPath="$USER_HOME$/Nextcloud/Documents/.ssh/netbiz/hetzner-robot" port="22" nameFormat="DESCRIPTIVE" username="pudotta" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>

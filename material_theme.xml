@@ -1,8 +1,18 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentColor" value="416a9b" />
-    <option name="selectedTheme" value="NATIVE" />
-    <option name="userId" value="-165f9c0e:17f30412880:-8000" />
-    <option name="version" value="6.13.0" />
+    <option name="contrastMode" value="true" />
+    <option name="highContrast" value="true" />
+    <option name="isActiveBoldTab" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="useGlobalFont" value="true" />
+    <option name="useColoredDirectories" value="true" />
+    <option name="settingsSelectedTab" value="6" />
+    <option name="accentColor" value="84ffff" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="userId" value="3d573593:17f2acf4c8e:-8000" />
+    <option name="version" value="7.0.0" />
   </component>
 </application>
