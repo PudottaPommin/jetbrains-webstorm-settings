@@ -4,7 +4,7 @@
     <property name="created">2021-11-10T14:44:14</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2022-03-02T15:28:14</property>
+    <property name="modified">2022-03-03T11:10:52</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <console-font>
@@ -15,7 +15,8 @@
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.6" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
