@@ -5,7 +5,9 @@
     <option name="EDITOR_TAB_PLACEMENT" value="3" />
     <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
+    <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
+    <option name="SORT_TABS_ALPHABETICALLY" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
