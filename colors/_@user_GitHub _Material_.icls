@@ -4,7 +4,7 @@
     <property name="created">2021-12-14T10:29:52</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2022-04-19T11:58:38</property>
+    <property name="modified">2022-04-22T07:59:39</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <console-font>
@@ -16,7 +16,7 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.1" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="22863a" />
     <option name="ANNOTATIONS_COLOR" value="24292e" />
@@ -389,7 +389,7 @@
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="7b7b7b" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
