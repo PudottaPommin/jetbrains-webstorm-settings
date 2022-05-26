@@ -4,7 +4,7 @@
     <property name="created">2022-01-03T14:17:55</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-02-28T08:32:59</property>
+    <property name="modified">2022-05-26T10:47:06</property>
     <property name="originalScheme">Solarized Dark (Material)</property>
   </metaInfo>
   <console-font>
@@ -4149,7 +4149,6 @@
     <option name="SQL_SYNTETIC_ENTITY">
       <value />
     </option>
-    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="b58900" />
