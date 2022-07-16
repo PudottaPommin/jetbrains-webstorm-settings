@@ -1,6 +1,8 @@
 <application>
   <component name="RainbowSettings">
+    <option name="showRainbowIndentGuides" value="false" />
     <option name="suppressBigFileCheck" value="true" />
+    <option name="useColorGenerator" value="true" />
     <option name="version" value="6.25" />
   </component>
 </application>
