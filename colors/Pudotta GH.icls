@@ -4,7 +4,7 @@
     <property name="created">2022-07-22T22:27:48</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-07-23T10:23:56</property>
+    <property name="modified">2022-07-23T12:54:48</property>
     <property name="originalScheme">Pudotta GH</property>
   </metaInfo>
   <console-font>
@@ -159,7 +159,7 @@
     <option name="TAB_UNDERLINE_INACTIVE" value="f9826c80" />
     <option name="TEARLINE_COLOR" value="2f363d" />
     <option name="TOOLTIP" value="24292e" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="5264c" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="1a4e96" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="144620" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="735c0f" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="29134e" />
