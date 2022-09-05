@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialCustomThemeConfig">
-    <option name="colorScheme" value="GitHub Dark (Material)" />
+    <option name="colorScheme" value="Pudotta GH" />
     <option name="excludedColor" value="2f363dff" />
     <option name="accentColor" value="f9826cff" />
     <option name="notificationsColor" value="2f363dff" />

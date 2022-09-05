@@ -4,7 +4,7 @@
     <property name="created">2021-12-14T10:29:52</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2022-04-24T11:26:19</property>
+    <property name="modified">2022-07-23T16:20:56</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <console-font>
@@ -3451,7 +3451,6 @@
         <option name="FOREGROUND" value="6f42c1" />
       </value>
     </option>
-    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="d73a49" />
@@ -3709,7 +3708,7 @@
         <option name="FOREGROUND" value="32f62" />
       </value>
     </option>
-    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="" />
     <option name="XSLT_DIRECTIVE">
       <value />
     </option>
