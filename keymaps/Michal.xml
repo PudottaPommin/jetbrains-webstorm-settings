@@ -15,6 +15,7 @@
   <action id="ActivateServicesToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
+  <action id="AddToFavoritesPopup" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Group.Condition.Move.Down" />
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
@@ -42,22 +43,23 @@
   <action id="Compare.Selected">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="r" />
   </action>
+  <action id="Console.Jdbc.ExplainAnalyse">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="a" />
+  </action>
+  <action id="Console.Jdbc.ExplainPlan">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="p" />
+  </action>
   <action id="ContextHelp" />
   <action id="CopyElement" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
-  <action id="EditorAddOrRemoveCaret">
-    <mouse-shortcut keystroke="shift alt button1" />
-  </action>
+  <action id="Documentation.ViewExternal" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift alt down" />
-  </action>
-  <action id="EditorCreateRectangularSelectionOnMouseDrag">
-    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="EditorDeleteToWordEndInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="alt delete" />
@@ -79,6 +81,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="EditorScrollToCenter" />
+  <action id="ExternalJavaDoc" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
@@ -107,6 +110,7 @@
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control alt button1" />
     <keyboard-shortcut first-keystroke="shift alt f1" />
+    <keyboard-shortcut first-keystroke="shift f1" />
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="ctrl j" second-keystroke="s" />
@@ -128,11 +132,14 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
-  <action id="NextTab" />
-  <action id="PreviousTab" />
-  <action id="QuickEvaluateExpression">
-    <keyboard-shortcut first-keystroke="ctrl alt f8" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="n" />
   </action>
+  <action id="NextTab" />
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="p" />
+  </action>
+  <action id="PreviousTab" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
   </action>
@@ -164,20 +171,27 @@
     <keyboard-shortcut first-keystroke="shift alt b" />
   </action>
   <action id="ShowSearchHistory" />
-  <action id="ShowUsages">
-    <keyboard-shortcut first-keystroke="ctrl alt f7" />
-    <keyboard-shortcut first-keystroke="shift ctrl 7" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="shift minus" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="shift back_slash" />
   </action>
   <action id="Terminal.SwitchFocusToEditor">
     <keyboard-shortcut first-keystroke="shift f12" />
   </action>
-  <action id="ToggleBookmark7" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="c" />
+  </action>
   <action id="UsageFiltering.ReadAccess" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="t" />
   </action>
   <action id="XDebugger.AttachToProcess" />
   <action id="XDebugger.MoveWatchDown" />
